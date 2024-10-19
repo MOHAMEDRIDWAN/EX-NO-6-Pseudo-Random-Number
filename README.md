@@ -35,7 +35,7 @@ int main()
 ```
 
 # OUTPUT
-![alt text](<Screenshot (29).png>)
+<img width="909" alt="image" src="https://github.com/user-attachments/assets/4bf7a202-ad31-4121-aaa4-b8cb38d03c70">
 
 
 # RESULT
